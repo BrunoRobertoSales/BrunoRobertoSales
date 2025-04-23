@@ -1,32 +1,28 @@
-# 👨‍💻 Bem-vindo ao meu universo DevOps!
+# Sobre mim
 
-Oi! Eu sou um entusiasta de tecnologia que respira **Linux**, trabalho com **Zabbix**, **Grafana**, **Graylog**, **Prometheus**, entre outras ferramentas Open Source.
+Analista Linux.
 
-## ⚙️ Tech Stack que falo fluentemente:
+## Habilidades técnicas
 
-- 🐧 **Linux** (meu sistema nativo)
-- 📦 **Docker** & ⚓ **Kubernetes** (containers e orquestração de gente grande)
-- 📈 **Zabbix**, **Grafana** & **Prometheus** (monitoramento nível ninja)
-- 📊 **Graylog** (logs organizados, vida tranquila)
-- 🧰 **Ansible** (infra como código com um toque de magia YAML)
+- Linux (meu habitat natural)
+- Docker e Kubernetes (containers na veia)
+- Zabbix, Grafana e Prometheus (monitoramento que funciona de verdade)
+- Graylog (logs organizados, problemas resolvidos)
+- Ansible (automação sem complicação)
 
-## 📜 Certificações que carrego com orgulho:
+## Certificações
 
-- 🏅 **LPIC-3** – Linux mil grau
-- 🎓 **Red Hat Certified System Administrator** – Red Hat na veia
-- ☁️ **AWS Cloud Practitioner** e **Azure AZ-900** – Nuvem dominada
-- 📚 **ITIL Foundation v4** – Organização e boas práticas? Temos também!
+- LPIC-3
+- Red Hat Certified (RHCSA)
+- AWS Cloud Practitioner
+- ITIL Foundation
 
-## 🤘 Curiosidades sobre mim:
+## Um pouco além da TI
 
-- 💚 Palmeirense (sem moderação!)
-- 🎸 Tentando fazer solos decentes na guitarra (por enquanto o vizinho reclama, mas vai melhorar)
-- 🚀 Sempre aprendendo algo novo no mundo da TI (e fora dele também)
+Quando não estou mergulhado em servidores, clusters ou YAMLs, provavelmente estou assistindo a um jogo do Palmeiras ou tentando aprender um novo riff na guitarra. Tecnologia é minha profissão, mas também é meu hobby — e quando sobra tempo, tem rock e futebol também.
 
-## 📫 Me encontre por aí:
+## Vamos conversar?
 
-Se você curte tecnologia, open source, infraestrutura, ou só quer trocar ideia sobre futebol e música, chega mais! Vamos conversar e colaborar.
+Se você também curte tecnologia, DevOps ou apenas quer trocar uma ideia sobre música e futebol, fique à vontade para me chamar. Sempre aberto a colaborações, desafios e boas conversas.
 
----
-
-> “Automatize tudo o que puder, monitore o que sobrar.” – Eu mesmo, em algum momento com sono.
+> "Não é sobre automatizar tudo. É sobre saber exatamente o que vale a pena automatizar."
